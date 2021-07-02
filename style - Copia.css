@@ -12,11 +12,6 @@
             color: White;
         }
 
-        .div-loja-item {
-            background: #d7e5d9;
-            margin: 3px 0px 3px 0px;
-        }
-
         .div-loja-foto {
             padding: 6px 0px 6px 15px;
             width: auto;
@@ -29,28 +24,16 @@
         }
 
         .div-loja-texto {
-            padding-left: 12px;
+            padding-left: 18px;
             float: left;
-            width: auto;
-            height: auto;
-            line-height: 1.2;
-            margin: 6px 0px 0px 6px;
+            width: 287px;
+            height: 84px;
+            line-height: 1;
         }
 
         .div-loja-texto p{
             font-size: 12px;
             margin: 2px;
-        }
-
-        .div-loja-icone li {
-            display: inline;
-            padding-right: 4px;
-            vertical-align: middle;
-        }
-
-        .div-loja-icone ul {
-            margin: 3px;
-            padding: 3px;
         }
 
 
