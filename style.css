@@ -1,6 +1,6 @@
 
         .div-loja-tit {
-            width: 719px;
+            width: 729px;
             height: 35px;
             background-color: #008d40;
         }
@@ -14,7 +14,9 @@
 
         .div-loja-item {
             background: #d7e5d9;
-            margin: 3px 0px 3px 0px;
+            margin: 3px 0px 12px 0px;
+            height: 13rem;
+            width: 73rem;
         }
 
         .div-loja-foto {
@@ -36,6 +38,10 @@
             line-height: 1.2;
             margin: 6px 0px 0px 6px;
         }
+        
+        .div-loja-texto b{
+          font-size: 15px;
+        }
 
         .div-loja-texto p{
             font-size: 12px;
@@ -53,23 +59,16 @@
             padding: 3px;
         }
 
-
-
-
-
-
-
-
-
-
-
-
-
+        .div-sub-conteudo>p {
+        width: 52em;
+        padding-top: 12px;
+        }
 
         #div-sub-publicidade {
             width: 175px;
-            float: right;
+            /* float: right; */
             padding-left: 18px;
+            padding-top: 2em;
         }
 
         #div-sub-publicidade li{
